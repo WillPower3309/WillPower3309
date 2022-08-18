@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🔭 I'm currently working on [SwayFX], a fork of the sway window manager with added eye candy!
+#### 🔭 I'm currently working on [SwayFX](https://github.com/WillPower3309/swayfx), a fork of the sway window manager with added eye candy!
 
 Here's a quick preview:
 ![swayfx screenshot with rounded corners](assets/swayfxScreenshot.jpg)
